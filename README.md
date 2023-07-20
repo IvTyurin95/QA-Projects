@@ -1,2 +1,2 @@
 # QA-Projects
-Портфолио выполненных проектов в сфере тестирования / Porfolio of completed QA projects
+Портфолио выполненных проектов по тестированию / Porfolio of completed QA projects
